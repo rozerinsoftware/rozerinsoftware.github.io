@@ -1,5 +1,3 @@
-# rozerinsoftware.github.io
-
 # My Web Page Project
 
 This project is a personal web page built using pure HTML, CSS, and JavaScript.
@@ -15,3 +13,9 @@ This project is a personal web page built using pure HTML, CSS, and JavaScript.
 ### Prerequisites
 
 You only need a web browser to view and test the project.
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/my-web-page.git
